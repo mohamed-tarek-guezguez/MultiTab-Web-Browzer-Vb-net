@@ -12,5 +12,3 @@ How to manage tabs in vb.net on tab control
 <img src="img1.PNG">
 <br>
 <img src="img2.PNG">
-<br>
-<img src="img3.PNG">
